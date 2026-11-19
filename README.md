@@ -1,173 +1,218 @@
 
-<!-- ==================== INTRODUCTION ==================== -->
-
 <div align="center">
 
 # VEER SHAH
 
-### Computer Science Undergraduate | Software Developer | Problem Solver
+### Full-Stack Developer · AI Engineering · Competitive Programming
 
-**Building software. Exploring technology. Solving problems.**
+Computer Science & Engineering @ SVNIT Surat
+
+*Building intelligent applications, engineering practical solutions, and solving challenging problems.*
 
 <p>
   <a href="https://github.com/veershah90210-alt">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/veer-shah-7aa2b9372/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A5F&height=2&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=2563EB" width="100%" />
 
 </div>
 
-<!-- ==================== ABOUT ME ==================== -->
-
 ## About Me
 
-I'm a Computer Science undergraduate at **Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**, interested in software engineering, problem solving and emerging technologies.
+I'm a Computer Science and Engineering undergraduate at **Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**, with a strong interest in software engineering, AI-powered applications, and algorithmic problem solving.
 
-I enjoy taking ideas from concepts to working implementations, experimenting with different technologies and collaborating with teams to build practical solutions.
+I enjoy building end-to-end applications, understanding how systems work under the hood, and turning ideas into functional products. My experience includes developing full-stack platforms, implementing RAG pipelines, working with vector databases, and building simulation-driven applications.
 
-- 🎓 Pursuing B.Tech in Computer Science and Engineering at SVNIT Surat.
-- 💻 Interested in software development, algorithms and system design.
-- 🧠 Actively practicing Data Structures and Algorithms.
-- 🤖 Exploring Artificial Intelligence, Machine Learning and Retrieval-Augmented Generation (RAG).
-- 🚀 Interested in building scalable and practical software applications.
-- 🏆 Participated in multiple hackathons, with podium finishes.
-
-Currently focused on strengthening my computer science fundamentals while gaining hands-on experience through projects, competitive programming and hackathons.
+- 🎓 **Education:** B.Tech CSE, SVNIT Surat | CGPA: 8.56/10
+- 💻 **Development:** Full-stack applications, REST APIs and backend systems
+- 🤖 **AI Engineering:** RAG pipelines, hybrid retrieval and vector search
+- 🧠 **Problem Solving:** 350+ LeetCode problems and competitive programming
+- 🏆 **Hackathons:** Two consecutive hackathon podium finishes
+- 🚀 **Currently interested in:** Scalable software systems, AI engineering and backend development
 
 ---
 
-## Technical Skills
+## Technical Expertise
 
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
 </p>
 
-### Development & Frameworks
+### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
 </p>
 
-### Databases & Tools
+- React 19
+- Vite
+- Tailwind CSS
+- TanStack Router & Query
+
+### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
 </p>
 
-### Core Computer Science
+- Node.js and Express.js
+- FastAPI and Flask
+- REST API Development
+- JWT Authentication and bcrypt
+- SQLAlchemy and Pydantic
 
-- Data Structures and Algorithms
+### AI / ML & Data Retrieval
+
+- Retrieval-Augmented Generation (RAG)
+- MongoDB Atlas Vector Search
+- Sentence Transformers
+- Hybrid Search and Reciprocal Rank Fusion (RRF)
+- Gemini API
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
+</p>
+
+- MongoDB Atlas
+- MySQL
+- PostgreSQL
+- SQLite
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,vercel" />
+</p>
+
+- Git & GitHub
+- Linux
+- Render
+- Vercel
+
+### Computer Science Fundamentals
+
+- Data Structures & Algorithms
 - Object-Oriented Programming
 - Database Management Systems
 - Computer Organization
 - Algorithm Design and Analysis
-- Problem Solving and Competitive Programming
 
 ---
 
 ## Featured Projects
 
-A selection of projects I've worked on, exploring different areas of software development and applied technology.
-
 ### 01. DexMind
-**RAG-Based Knowledge Retrieval System**
+**RAG-Powered Pokémon Intelligence Platform**
 
-A knowledge retrieval application built around Retrieval-Augmented Generation, enabling users to retrieve relevant information from their own source material.
+<sub>React · FastAPI · MongoDB Atlas · Gemini · Sentence Transformers</sub>
 
-- Implemented a document ingestion and retrieval workflow.
-- Explored vector search and semantic retrieval.
-- Used MongoDB as part of the knowledge storage and retrieval pipeline.
-- Focused on providing context-grounded responses.
+[GitHub Repository](https://github.com/veershah90210-alt/DexMind) · [Live Application](https://dex-mind-pied.vercel.app/)
 
-**Technologies:** Python · MongoDB · RAG · Vector Search
+Led a three-member team, **404NotFound**, to secure 2nd Place at Uncharted Hackathon 2026, organized by Nexus SVNIT in collaboration with MongoDB.
 
-[Repository](https://github.com/veershah90210-alt/DexMind)
+**Key Engineering Contributions**
 
-### 02. Rump
-**Hackathon Project**
+- Engineered a Retrieval-Augmented Generation pipeline combining MongoDB Atlas Vector Search and full-text search.
+- Generated 384-dimensional Sentence Transformer embeddings and implemented cosine similarity-based retrieval.
+- Integrated Reciprocal Rank Fusion (RRF) to combine semantic and keyword search results.
+- Implemented grounded AI responses with verifiable citations, hallucinated-reference validation and abstention on unanswerable queries.
+- Developed FastAPI endpoints for question answering, Pokémon comparisons, data ingestion and a deterministic team advisor.
+- Ingested 151 Pokémon from PokéAPI into MongoDB Atlas.
+- Built a React 19 + Vite frontend featuring an AI assistant, evidence inspector, Pokédex explorer and comparison interface.
 
-A collaborative software project developed during a competitive hackathon environment.
-
-- Built as part of a team-based hackathon.
-- Involved rapid prototyping, development and integration.
-- Secured **3rd Place (2nd Runner-Up)** at Manipal Hackathon 2026.
-
-**Technologies:** Refer to project repository.
-
-[Repository](https://github.com/veershah90210-alt/Rump)
-
-### 03. CalorieLens
-**Calorie Tracking Application**
-
-A web-based calorie tracking application focused on helping users monitor their daily food intake and nutritional goals.
-
-- Designed around a simple calorie tracking workflow.
-- Focused on usability and a structured application experience.
-- Explored frontend and backend integration.
-
-**Technologies:** HTML · CSS · JavaScript · Web Development
-
-### 04. Calculator
-**Interactive Web Application**
-
-A browser-based calculator built to strengthen frontend development fundamentals.
-
-- Interactive calculator interface.
-- JavaScript-based calculation logic.
-- Responsive and straightforward UI.
-
-**Technologies:** HTML · CSS · JavaScript
-
-[Repository](https://github.com/veershah90210-alt/calculator)
+**Achievement:** 🥈 2nd Place — Uncharted Hackathon 2026.
 
 ---
 
-## Hackathons & Achievements
+### 02. Rump
+**Working Capital Resilience Platform**
 
-| Achievement | Recognition |
-|---|---|
-| Uncharted Hackathon | 🥈 2nd Place |
-| Manipal Hackathon 2026 | 🥉 3rd Place (2nd Runner-Up) |
-| ACM Summer Challenge 2026 | 1st in Qualifying Rounds, 4th in Final Rounds |
-| Smart India Hackathon 2025 | Qualified through Campus Round |
+<sub>React · TypeScript · FastAPI · SQLAlchemy · Render</sub>
 
-### Hackathon Experience
+[GitHub Repository](https://github.com/veershah90210-alt/Rump) · [Live Application](https://rump-frontend.onrender.com/)
 
-Hackathons have given me the opportunity to work under tight deadlines, collaborate with developers, explore unfamiliar technologies and turn ideas into functional prototypes.
+Built as part of a three-member team for **M# 2026**, MIT Manipal's flagship hackathon, where the team secured 3rd Place (2nd Runner-Up).
 
-I've particularly enjoyed working on projects involving problem-solving, AI-powered applications and data-driven systems.
+A platform designed to help SMEs anticipate supply-chain disruptions and protect working capital through deterministic financial simulations.
+
+**Key Engineering Contributions**
+
+- Developed a FastAPI and SQLAlchemy 2.0 backend with Pydantic validation.
+- Engineered a deterministic contagion engine to simulate late payments, supplier price increases and demand drops.
+- Tracked downstream order failures, zero-cash runway dates and total contagion costs.
+- Built a type-safe React 19 + TypeScript frontend using TanStack Router, TanStack Query and Tailwind CSS.
+- Implemented an interactive supply-chain dependency graph to identify single points of failure and counterparty exposure.
+- Developed rescue simulations involving auto-phasing, split-escrow and invoice factoring.
+- Implemented financial calculations using integer-paise arithmetic and tested application logic with Vitest.
+
+**Achievement:** 🥉 3rd Place — M# 2026, MIT Manipal.
 
 ---
 
 ## Competitive Programming
 
-I regularly practice Data Structures and Algorithms to improve my problem-solving skills and algorithmic thinking.
+I actively practice Data Structures and Algorithms to improve my algorithmic thinking, coding efficiency and problem-solving abilities.
 
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-**Current milestones:**
+<a href="https://leetcode.com/">
+  <img src="https://img.shields.io/badge/LeetCode-350%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
-- 350+ problems solved on LeetCode.
-- Codeforces highest rating: 1363 (Pupil).
-- Regular practice of algorithms and problem-solving patterns.
+<a href="https://codeforces.com/">
+  <img src="https://img.shields.io/badge/Codeforces-1363%20Rating-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+
+</div>
+
+| Platform | Milestone |
+|---|---|
+| LeetCode | 350+ problems solved |
+| Codeforces | Maximum rating: 1363 |
+| Codeforces Rank | Pupil |
 
 ---
 
-## GitHub Statistics
+## Achievements & Recognition
+
+| Achievement | Result |
+|---|---|
+| Uncharted Hackathon 2026 — Nexus SVNIT × MongoDB | 🥈 2nd Place |
+| M# 2026 — MIT Manipal | 🥉 3rd Place |
+| ACM Summer Challenge 2026 | 1st in Qualifiers, 4th in Finals |
+| JEE Main | 99.52 Percentile |
+| JEE Advanced | AIR 7877 |
+
+**Hackathon Highlights**
+
+- Led a three-member team to 2nd Place at Uncharted Hackathon 2026.
+- Secured 3rd Place at M# 2026, MIT Manipal.
+- Achieved podium finishes in consecutive hackathons.
+
+---
+
+## Education
+
+**Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**
+
+B.Tech. — Computer Science and Engineering
+
+August 2025 – Present
+
+**CGPA: 8.56 / 10**
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
@@ -185,19 +230,19 @@ I regularly practice Data Structures and Algorithms to improve my problem-solvin
 
 ## Let's Connect
 
-I'm always interested in connecting with developers, collaborating on interesting projects and exploring new opportunities.
-
-<p align="center">
-  <a href="https://github.com/veershah90210-alt">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/veer-shah-7aa2b9372/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+I'm always open to connecting with fellow developers, collaborating on interesting projects, participating in hackathons and exploring opportunities to learn and build.
 
 <div align="center">
 
-### "Consistency compounds. Keep building."
+<a href="https://github.com/veershah90210-alt">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/veer-shah-7aa2b9372/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Building. Learning. Improving.**
 
 </div>
